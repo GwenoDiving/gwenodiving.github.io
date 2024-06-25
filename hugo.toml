@@ -19,3 +19,19 @@ theme = "ananke"
     languageCode = 'zh-tw'
     contentDir = "content/zh"
     languageName = '中文'
+
+[[params.ananke_socials]]
+  name = 'email'
+  label = '✉'
+  url = 'mailto:gwenola.galicher@gmail.com'
+
+[[params.ananke_socials]]
+  name = 'instagram'
+  url = 'https://www.instagram.com/gweno_diving_taiwan/'
+
+[[params.ananke_socials]]
+  name = 'facebook'
+  url = 'https://m.facebook.com/100089367170168'
+
+[params]
+  line = 'gweno16'
