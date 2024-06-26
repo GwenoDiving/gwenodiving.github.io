@@ -21,11 +21,6 @@ theme = "ananke"
     languageName = '中文'
 
 [[params.ananke_socials]]
-  name = 'email'
-  label = '✉'
-  url = 'mailto:gwenola.galicher@gmail.com'
-
-[[params.ananke_socials]]
   name = 'instagram'
   url = 'https://www.instagram.com/gweno_diving_taiwan/'
 
