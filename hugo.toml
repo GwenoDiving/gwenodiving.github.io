@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Gweno Salomé Diving Taiwan'
 theme = "ananke"
 
+SectionPagesMenu = "main"
+
+# Allow raw html
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages]
   [languages.en]
     weight = 1
