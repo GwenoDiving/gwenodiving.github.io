@@ -26,6 +26,20 @@ unsafe = true
     contentDir = "content/zh"
     languageName = '中文'
 
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    url = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "padi_level"
+    name = "PADI Levels"
+    pageRef = "padi_levels"
+    url = "padi_levels/"
+    weight = 2
+    parent = "Home"
+
 [[params.ananke_socials]]
   name = 'instagram'
   url = 'https://www.instagram.com/gweno_diving_taiwan/'
