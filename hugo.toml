@@ -35,8 +35,7 @@ unsafe = true
   [[menu.main]]
     identifier = "padi_level"
     name = "PADI Levels"
-    pageRef = "padi_levels"
-    url = "padi_levels/"
+    url = "/padi_levels"
     weight = 2
     parent = "Home"
 
