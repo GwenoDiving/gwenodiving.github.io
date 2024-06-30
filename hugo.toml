@@ -13,17 +13,14 @@ unsafe = true
   [languages.en]
     weight = 1
     languageCode = 'en-us'
-    contentDir = "content/en"
     languageName = 'English'
   [languages.fr]
     weight = 2
     languageCode = 'fr-fr'
-    contentDir = "content/fr"
     languageName = 'Français'
   [languages.zh]
     weight = 3
     languageCode = 'zh-tw'
-    contentDir = "content/zh"
     languageName = '中文'
 
 [menu]
