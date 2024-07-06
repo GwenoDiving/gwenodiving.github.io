@@ -35,6 +35,12 @@ unsafe = true
     url = "/padi_levels"
     weight = 2
     parent = "Home"
+  [[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/schedule"
+    weight = 3
+    parent = "Home"
 
 [[params.ananke_socials]]
   name = 'instagram'
