@@ -32,7 +32,7 @@ unsafe = true
   [[menu.main]]
     identifier = "padi_level"
     name = "PADI Levels"
-    url = "/padi_levels"
+    url = "/padi_levels_and_certifications"
     weight = 2
     parent = "Home"
   [[menu.main]]
