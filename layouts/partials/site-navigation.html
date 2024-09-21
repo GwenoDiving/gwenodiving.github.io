@@ -14,27 +14,36 @@
           <div class="menu-btn">
             <div class="dib">☰</div>
           </div>
-          <div class="nav-links">
-
-
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="hover-white no-underline white-90" href="{{ absLangURL .URL }}" title="{{ i18n "pageTitle" . }}">
-              {{ or (T .Identifier) .Name | safeHTML }}
-            </a>
-            {{ if .HasChildren }}
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-              {{ range .Children }}
-              <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-                <a class="hover-white no-underline white-90" href="{{ absLangURL .URL }}" title="{{ i18n "pageTitle" . }}">
-                  {{ or (T .Identifier) .Name | safeHTML }}
-                </a>
-              </li>
+          <div class="nav-links flex-l">
+            {{ range .Site.Menus.main }}
+              {{ if .HasChildren }}
+                <div class="dropdown flex-l">
+                <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  <div class="dropbtn flex-l">
+                    {{ or (T .Identifier) .Name | safeHTML }} ▼
+                  </div>
+                  <div class="dropdown-content flex-l" ontouchstart="">
+                    <ul>
+                    <a class="hover-white no-underline white-90" href="{{ absLangURL .URL }}" title="{{ i18n "pageTitle" . }}">
+                      {{ or (T .Identifier) .Name | safeHTML }}
+                    </a>
+                    {{ range .Children }}
+                      <a class="hover-white no-underline white-90" href="{{ absLangURL .URL }}" title="{{ i18n "pageTitle" . }}">
+                        {{ or (T .Identifier) .Name | safeHTML }}
+                      </a>
+                    {{ end }}
+                    </ul>
+                  </div>
+                </li>
+                </div>
+              {{ else }}
+                <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  <a class="hover-white no-underline white-90" href="{{ absLangURL .URL }}" title="{{ i18n "pageTitle" . }}">
+                    {{ or (T .Identifier) .Name | safeHTML }}
+                  </a>
+                </li>
               {{ end }}
-            </ul>
             {{ end }}
-          </li>
-          {{ end }}
 
           </div>
         </nav>
