@@ -6,63 +6,116 @@ type: page
 menu: main
 ---
 
-{{< figure src="/images/padi_seal_team.png" >}}
+## 🎠Age: 8-9 years
 
+## 🧒**4 students per session**
 
-# Registration requirements
+# 🤿Unforgettable Seal Team Program in Taiwan
 
-1. Be at least 8 years old
-2. This activity is totally safe for beginners and not require any experience, but it would be better if the child that participates is not afraid of water and with parents agreement to participate to this course.
+*The PADI Seal Team is designed for young divers who are looking for
+action-packed fun by completing exciting water tasks in the pool. Have you ever
+wondered what it's like to dive with a flashlight, take photos underwater, or
+float effortlessly like an astronaut? In addition to learning basic scuba
+diving skills, the course also features specialized in-water tasks such as
+wreck diving, navigation, buoyancy, environmental awareness and more. PADI Seal
+Teams include doing cool things in the pool, meeting friends and sharing
+adventures in the underwater world. Children must be at least 8 years old to
+participate in PADI Seal Team. Children must be comfortable in the water, but
+no scuba diving experience is required.*
 
-# Fees
+{{< figure src="/images/Bubblemaker_.avif" link="/images/Bubblemaker_.avif"
+title="6 reasons to introduce your child to scuba diving." >}}
 
-The fee is 8550 NTD per child. There are some discounts if two or more children belonging to the same group sign up together. Fees include pool entrance, children gear rental, certificate, training fee and photographs.
+**Internationally recognized certification PADI**
+{{< figure src="/images/seal_team.avif" link="/images/seal_team.avif">}}
 
-Please contact the instructor for detailed pricing if you want to sign up more than 2 children. Fees include swimming pool entrance, rental of diving equipment, experience certificate, training fee and photos/videos.
+### Access condition
 
-Course hours: 3 sessions of 1.5-2 hours each.
+- Age : 8-9 years
+- site : Pool < 2m
+- Max students : 4
 
-We adopt a small class system: 1 instructor for up to 4 children, and for the underwater part, it's one instructor for one child.
+### included in the course
 
-The PADI Seal Team is designed for young divers who are looking for action-packed fun by completing exciting water tasks in the pool. Have you ever wondered what it's like to dive with a flashlight, take photos underwater, or float effortlessly like an astronaut? In addition to learning basic scuba diving skills, the course also features specialized in-water tasks such as wreck diving, navigation, buoyancy, environmental awareness and more. PADI Seal Teams include doing cool things in the pool, meeting friends and sharing adventures in the underwater world. Children must be at least 8 years old to participate in PADI Seal Team. Children must be comfortable in the water, but no scuba diving experience is required. Parental permission is required.
+3 sessions of 2 hours, E-learning, Equipment, Tank, Insurance
 
-# Contents of Seal Team
+# 👌A Progressive Journey into the World of Diving
 
-The PADI Seal Team course teaches responsibility and respect for the underwater world.
+## AquaMission 1 & AquaMission 2 (Session #1)
 
-At home, students will first watch videos (e-learning materials) and then in the swimming pool, the instructor will lead students to do Aqua Missions 1 - 5, covers basic scuba diving skills such as breathing underwater, mask draining, regulator retrieval, experiencing weightless swimming and also learn to recognize marine organisms. Each part takes about 30 minutes underwater. Complete these in-water missions and become a certified PADI Seal. When you are old enough to take the course, your experience may also count towards the PADI Open Water Diver course.
+### Dive 1: Required Skills:
 
-What to bring：Swimming suits, swimming cap, towel, dry clothes to change and some water to keep yourself hydrated.
+<ins>On the surface</ins>:
+1. Enter in shallow water.
+2. Put on and adjust equipment with assistance.
 
-{{< figure src="/images/padi_seal_team1.png" title="Example of a fun aqua-mission: Decoration of a underwater Christmas tree" >}}
-{{< figure src="/images/padi_seal_team2.png" title="Example of a fun aqua-mission: Swimming through a underwater floating structure" >}}
+<ins>Underwater</ins>:
+1. Breathe normally, not holding one’s breath.
+2. Control depth and direction while swimming underwater.
+3. Equalize ears and mask.
+4. Monitor air supply and signal if air is sufficient or low.
+5. Communicate using hand signals.
+6. Demonstrate a proper ascent.
 
-# Registration and refund
+### Dive 2: Required Skills:
 
-Please contact Gweno Diving Instructor Xiaoguan’s Line account to discuss and transfer money to register. Once the transfer is completed, the registration process is completed. If the course fee is canceled due to personal factors before the start of the course, the course right can be transferred to third party or postponed once. If you apply for a refund according to the following criteria, a handling fee of NT$100/person is required, including the third-party bank cash flow handling fee for refund transfer and administrative personnel handling handling fee.
+<ins>On the surface</ins>:
+1. Enter in shallow water.
+2. Put on and adjust equipment.
 
+<ins>Underwater</ins>:
+1. Clear a regulator by using the purge button and resume breathing from it.
+2. Equalize ears and mask.
+3. Communicate using hand signals.
+4. Demonstrate a proper ascent.
 
-1. If you cancel seven days before the course, we will fully refund.
-2. If you cancel the day before the course, you need to charge a deposit of NT$500, and the rest will be refunded.
-3. Due to instructor Gweno has to reserve the swimming pool personally with the Youth Park swimming pool, if you cancel on the day of cours, it will affect the rights of other students and the instructor, so no refund will be approved.
+## AquaMission 3 (Session #2)
 
-{{< figure src="/images/youth_park_pool.jpg" title="Wan hua District - Youth Park Outdoor Swimming pool" >}}
+### Dive 3: Required Skills:
 
-Address:
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3615.324776478465!2d121.50715999999998!3d25.02305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9b9197b1849%3A0x6546dc5265d69d0f!2sNo.%20199%2C%20Shuiyuan%20Rd%2C%20Wanhua%20District%2C%20Taipei%20City%2C%20Taiwan%20108!5e0!3m2!1sen!2sus!4v1719365989823!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<ins>On the surface</ins>:
+1. Enter the water in shallow water.
+2. Put on and adjust equipment.
+3. Inflate and deflate the buoyancy control device (BCD) using the low-pressure inflator.
 
-# Transportation
+<ins>Underwater</ins>:
+1. Clear a partially flooded mask.
+2. Breathe for at least 30 seconds on the alternate air source provided by the instructor.
+3. Communicate using hand signals.
+4. Demonstrate a proper ascent.
 
-## Bus
+## AquaMission 4 & AquaMission 5 (Session #3)
 
-1. 20, 250, BR22, Zhongshan Main Line to Youth Park Main Gate.
-2. 20, 250, BR22, Zhongshan Main Line to Youth Park.
-3. 12, 20, 250, 630, BL29, BR22, Zhongshan Main Line to Qingnian Rd.
-4. 12, 20, 250, 630, BL29, BR22, Zhongshan Main Line to Youth Community.
-5. 12, 20, 250, 630, BL29, BR22, Zhongshan Main Line to Youth Park (Youth).
+### Dive 4: Required Performance:
 
+<ins>On the surface</ins>:
+1. Enter in shallow water.
+2. Put on and adjust equipment.
 
-## MRT
+<ins>Underwater</ins>:
+1. Retrieve a regulator from behind the shoulder.
+2. Purge the regulator by blowing and resume breathing.
+3. Use the medium-pressure inflator to achieve neutral buoyancy. Ascend and descend slowly and in a controlled manner while inhaling and exhaling.
+4. Do the "ludion" without moving the feet or arms.
+5. Demonstrate a proper ascent.
 
-1. Songshan-Xindian Line (GR Line) or Zhonghe-Xinlu Line (Y Line) to Guting Station.
-2. Songshan-Xindian Line (GR Line) or Bannan Line (BL Line) to Guting Station.
+### Dive 5: Required Skills:
+
+<ins>On the surface</ins>:
+1. Clear the snorkel using the forceful exhalation method.
+2. Switch between the snorkel and the regulator multiple times without lifting the face out of the water.
+3. Swim with the scuba gear while breathing on the snorkel.
+4. Deflate the BCD, then orally inflate it to achieve positive buoyancy.
+
+## 🪸Dive into the Extraordinary
+
+Embark on the Seal Team Program at the cost of 8,850 nt$ for three sessions,
+each lasting 2 hours. Join small groups with no more than four students,
+benefit from personalized attention from internationally certified instructors,
+
+**8600 ntd$**
+The price includes all the essential elements for optimal diving conditions, including wetsuit, mask, fins, tanks, and access to e-learning and comprehensive insurance.
+
+## 📆2 options
+<ins>2 days</ins>
+
