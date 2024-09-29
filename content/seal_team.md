@@ -113,8 +113,11 @@ Embark on the Seal Team Program at the cost of 8,850 nt$ for three sessions,
 each lasting 2 hours. Join small groups with no more than four students,
 benefit from personalized attention from internationally certified instructors,
 
-**8600 ntd$**
-The price includes all the essential elements for optimal diving conditions, including wetsuit, mask, fins, tanks, and access to e-learning and comprehensive insurance.
+{{< price_info 8600 >}}
+The price includes all the essential elements for optimal diving conditions,
+including wetsuit, mask, fins, tanks, and access to e-learning and
+comprehensive insurance.
+{{< /price_info >}}
 
 ## 📆2 options
 <ins>2 days</ins>

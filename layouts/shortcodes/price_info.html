@@ -1,0 +1,8 @@
+{{- $title := .Get 0 -}}
+{{- $raw := (markdownify .Inner | chomp) -}}
+<article class="center mw5 mw6-ns hidden ba mv4">
+  <h1 class="f4 bg-lightest-blue navy white mv0 pv2 ph3">ℹ️  Price: {{ $title }} NTD</h1>
+  <div class="pa3 bt bg-light-gray">
+  {{ $raw }}
+  </div>
+</article>
