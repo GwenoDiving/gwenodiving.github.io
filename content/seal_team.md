@@ -122,3 +122,13 @@ comprehensive insurance.
 ## 📆2 options
 <ins>2 days</ins>
 
+| Time | Day 1              | Day 2  |
+|------|--------------------|--------|
+|      | Equipment overview | Dive 4 |
+| 4h   | Dive 1 & Dive 2    | Dive 5 |
+|      | Dive 3             |        |
+
+* Possible to have the course in the morning or the afternoon.
+* Provide snacks between dives and water bottles <span class="red">for the day</span> from 10 am to 5 pm.
+
+{{% whoami %}}
